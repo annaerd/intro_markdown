@@ -7,3 +7,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Bra
+- [x] Mycket Bra
+- [ ] Mycket mycket mycket trött
